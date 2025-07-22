@@ -121,7 +121,7 @@ Built for all screen sizes:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/MeetVaghasiya01/HelpingForTourism.git
+git clone (https://github.com/solankitushar2404/Helping-For-Tourism.git)
 
 # Step 2: Navigate into the project
 cd HelpingForTourism
@@ -163,9 +163,9 @@ npm run dev
 💬 Real-time feedback via contact form
 
 ## 🙌 Made With Passion By
-Meet Vaghasiya  
+Solanki Tusharkumar
 📍 Gujarat, India  
-🛠️ Full Stack Developer & Project Lead  
+🛠️ Full Stack Developer & Project Member 
 💼 Creator of the Platform
 
 ## 📬 Feedback or Suggestions?
