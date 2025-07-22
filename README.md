@@ -163,8 +163,8 @@ npm run dev
 💬 Real-time feedback via contact form
 
 ## 🙌 Made With Passion By
-Solanki Tusharkumar
-📍 Gujarat, India  
+Tusharkumar Solanki
+📍 Gujarat,India  
 🛠️ Full Stack Developer & Project Member 
 💼 Creator of the Platform
 
